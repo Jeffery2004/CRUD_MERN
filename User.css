@@ -1,0 +1,25 @@
+table{
+    padding-top:20px;
+    text-align:center; 
+}
+div{
+    margin-left:200px;
+}
+tr td{
+    padding:30px;
+}
+button{
+    margin-right:16px;
+}
+.add{
+    margin-left:50px;
+    margin-top:45px;
+    margin-bottom:20px;
+}
+.link{
+    text-decoration:none;
+    color:black;
+}
+th{
+    margin-left:50px;
+}
